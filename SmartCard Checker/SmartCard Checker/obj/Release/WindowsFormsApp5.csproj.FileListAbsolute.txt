@@ -1,0 +1,11 @@
+C:\Users\lpicazio\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe.config
+C:\Users\lpicazio\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.exe
+C:\Users\lpicazio\source\repos\WindowsFormsApp5\WindowsFormsApp5\bin\Release\WindowsFormsApp5.pdb
+C:\Users\lpicazio\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Form1.resources
+C:\Users\lpicazio\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\lpicazio\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\lpicazio\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\lpicazio\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.exe
+C:\Users\lpicazio\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.pdb
+C:\Users\lpicazio\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.csprojResolveAssemblyReference.cache
+C:\Users\lpicazio\source\repos\WindowsFormsApp5\WindowsFormsApp5\obj\Release\WindowsFormsApp5.WaitForm.resources
